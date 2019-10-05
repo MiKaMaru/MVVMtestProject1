@@ -1,0 +1,11 @@
+D:\repos\MVVMtestProject1\MVVMtestProject1\bin\Debug\netcoreapp2.1\MVVMtestProject1.deps.json
+D:\repos\MVVMtestProject1\MVVMtestProject1\bin\Debug\netcoreapp2.1\MVVMtestProject1.runtimeconfig.json
+D:\repos\MVVMtestProject1\MVVMtestProject1\bin\Debug\netcoreapp2.1\MVVMtestProject1.runtimeconfig.dev.json
+D:\repos\MVVMtestProject1\MVVMtestProject1\bin\Debug\netcoreapp2.1\MVVMtestProject1.dll
+D:\repos\MVVMtestProject1\MVVMtestProject1\bin\Debug\netcoreapp2.1\MVVMtestProject1.pdb
+D:\repos\MVVMtestProject1\MVVMtestProject1\obj\Debug\netcoreapp2.1\MVVMtestProject1.csprojAssemblyReference.cache
+D:\repos\MVVMtestProject1\MVVMtestProject1\obj\Debug\netcoreapp2.1\MVVMtestProject1.csproj.CoreCompileInputs.cache
+D:\repos\MVVMtestProject1\MVVMtestProject1\obj\Debug\netcoreapp2.1\MVVMtestProject1.AssemblyInfoInputs.cache
+D:\repos\MVVMtestProject1\MVVMtestProject1\obj\Debug\netcoreapp2.1\MVVMtestProject1.AssemblyInfo.cs
+D:\repos\MVVMtestProject1\MVVMtestProject1\obj\Debug\netcoreapp2.1\MVVMtestProject1.dll
+D:\repos\MVVMtestProject1\MVVMtestProject1\obj\Debug\netcoreapp2.1\MVVMtestProject1.pdb
